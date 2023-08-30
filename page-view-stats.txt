@@ -1,0 +1,33 @@
+<center>	
+		<div class="MsoNormal" align="center" style="text-align:center">
+		<span style="mso-fareast-font-family:&quot;Times New Roman&quot;">
+			<hr size="2" width="100%" align="center">
+		</span>
+		</div>
+
+			<div>
+				<p class="MsoNormal"><a href="http://www2.clustrmaps.com/user/40410c806"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-no-proof:yes"><img border="0" width="180" height="120" id="_x0000_i1032" src="./Welcome to Bala&#39;s Homepage_files/people.iitr.ernet.in-facultywebsite-balarfma-Website--thumb.jpg" alt="Locations of visitors to this page"></span></a><span style="mso-fareast-font-family:
+				&quot;Times New Roman&quot;;color:windowtext"><o:p></o:p></span></p>
+			</div>
+
+		<p class="MsoNormal">
+		<a href="http://www.hitwebcounter.com/internetcountercontact.php" target="_blank">
+			<span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-no-proof:yes"><img border="0" width="144" height="27" id="_x0000_i1031" src="./Welcome to Bala&#39;s Homepage_files/counter.php" alt="geek tracking">
+			</span>
+			</a>
+			<span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+				color:windowtext"><br>
+				<a href="http://www.hitwebcounter.com/countersiteservices.php" target="_blank" title="Accurately Stats"><strong><u><span style="font-size:8.5pt;font-family:
+				&quot;Arial&quot;,&quot;sans-serif&quot;;color:#758087"><!-- hitwebcounter.com -->Accurately Stats</span></u></strong><u><span style="font-size:8.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#758087"> </span></u></a><o:p></o:p>
+			</span>
+		</p>
+
+		<p class="MsoNormal">
+		<span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+			color:windowtext"><script type="text/javascript">
+			var _clustrmaps = {'url' : 'people.iitr.ernet.in/facultywebsite/balarfma/Website/', 'user' : 1099782, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-06-17', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();
+			</div>
+			</script><o:p>&nbsp;</o:p>
+		</span>
+		</p>
+	</center>

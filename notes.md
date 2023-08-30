@@ -1,0 +1,2 @@
+- remove erdos number
+- only google scholar h-index below photo
